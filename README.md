@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome 
 
-<!--
-**amsrocha2020/amsrocha2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about Web Development. **Professional Front End Developer** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
 
-Here are some ideas to get you started:
+### Learning: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ReactJS (Hooks, React Routing, ContextApi, Redux)
+- NodeJS (Express, MVC, Mongoose)
+- MongoDB
+- REST APIs
+- SASS
+
+### Specialties: 
+JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 3&4, MySql and PostgreSQL.
+
+Check [my website](https://antoniorocha.pt)
