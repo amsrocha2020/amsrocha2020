@@ -14,7 +14,7 @@ I'm passionate about Web Development. **Professional Front End Developer** with 
 ### Specialties: 
 JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 3&4, MySql and PostgreSQL.
 
-#### 💬 Languages(Learning)
+#### 💬 Languages
 
 - English - Intermediate;
 - Spanish - Intermediate;
