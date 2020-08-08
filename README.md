@@ -7,7 +7,7 @@ I'm passionate about Web Development. **Professional Front End Developer** with 
 ### Learning: 
 
 - ReactJS (Hooks, React Routing, ContextApi, Redux)
-- NodeJS (Express, MVC, Mongoose)
+- NodeJS (Express, Mongoose)
 - React Native
 - TypeScript
 - MongoDB
