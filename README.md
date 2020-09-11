@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-![](prog_1.gif | width=100)
+![](prog_1.gif {width=100px height=400px})
 
 I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
 
