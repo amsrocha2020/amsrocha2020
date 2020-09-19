@@ -8,13 +8,11 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 
 - ReactJS (Hooks, React Routing, ContextApi, Redux)
 - NodeJS (Express, Mongoose)
-- React Native
 - TypeScript
-- MongoDB
 - REST APIs
 
 ### Specialties: 
-JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 3&4, MySql and PostgreSQL.
+JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 4 and MySql.
 
 #### 💬 Languages
 
