@@ -7,9 +7,10 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 ### Learning: 
 
 - ReactJS (Hooks, React Routing, ContextApi, Redux)
-- NodeJS (Express, Mongoose)
 - TypeScript
 - REST APIs
+- TDD (Jest and Enzyme)
+- GitFlow
 
 ### Specialties: 
 JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 4 and MySql.
