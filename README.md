@@ -12,6 +12,8 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 - TDD (Jest and Enzyme)
 - GitFlow
 
+![amsrocha2020 github stats](https://github-readme-stats.vercel.app/api?username=amsrocha2020&show_icons=true&theme=radical)
+
 ### Specialties: 
 JavaScript ECMAScript6, jQuery,  AJAX, PHP, HTML5, CSS3, SASS, Bootstrap 4 and MySql.
 
