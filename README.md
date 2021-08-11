@@ -1,5 +1,9 @@
 # 👋 Welcome to my profile
 
+I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
+
+[![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
+
 <div>
     <!--<img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/ubuntu.png"/>-->
@@ -50,9 +54,7 @@
     <br/>
 </div>
 
-I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
-
-[![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
+<br/>
 
 ### Learning: 
 
