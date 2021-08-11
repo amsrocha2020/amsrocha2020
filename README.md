@@ -1,9 +1,5 @@
 # 👋 Welcome to my profile
 
-I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
-
-[![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
-
 <div>
     <!--<img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/ubuntu.png"/>-->
@@ -23,10 +19,10 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
     src="./assets/react.png"/>
     <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/redux.png"/>
-    <img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/mui.png"/>
-    <img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/gatsby.png"/>
+    <!--<img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/mui.png"/>-->
+    <!--<img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
+    src="./assets/gatsby.png"/>-->
     <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/nextjs.png"/>
     <!--<img align="left" title="D3" alt="D3" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -55,6 +51,10 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 </div>
 
 <br/>
+
+I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
+
+[![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
 
 ### Learning: 
 
