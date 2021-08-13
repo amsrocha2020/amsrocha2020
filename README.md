@@ -58,16 +58,19 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 
 ### Learning: 
 
-- ReactJS (Hooks, React Routing, ContextApi, Redux)
+- React (Hooks, React Routing, ContextApi, Redux)
+- Next.js
+- TDD (Jest, Enzyme and React Testing Library)
+- Webpack
 - TypeScript
 - REST APIs
-- TDD (Jest and Enzyme)
-- Webpack
 - GitFlow
 - SOLID
+- Agile Scrum
+- Docker
 
 ### Specialties: 
-JavaScript ECMAScript6, PHP, HTML5, CSS3, SASS, Bootstrap 4 and MySql.
+JavaScript ECMAScript6, HTML5, CSS3, SASS, Bootstrap and MySql.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsrocha2020&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
