@@ -73,7 +73,7 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 JavaScript ECMAScript6, HTML5, CSS3, SASS, Bootstrap and MySql.
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsrocha2020&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsrocha2020&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amsrocha2020&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="amsrocha2020 Github Stats" />
 </p>
 
