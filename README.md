@@ -54,9 +54,7 @@
 
 I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
 
-<p align="center">
 [![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
-</p>
 
 ### Learning: 
 
@@ -74,8 +72,11 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 ### Specialties: 
 JavaScript ECMAScript6, HTML5, CSS3, SASS, Bootstrap and MySql.
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amsrocha2020&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=amsrocha2020&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="amsrocha2020 Github Stats" />
+</p>
+
 
 #### 💬 Languages
 
