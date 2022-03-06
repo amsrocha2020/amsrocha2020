@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile
+# 👋 Welcome
 
 <div>
     <!--<img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -52,8 +52,6 @@
 
 <br/>
 
-I'm passionate about Web Development. ***Professional Front End Developer*** with 4 years of experience with JavaScript and degree at the Instituto Superior de Engenharia do Porto (ISEP).
-
 [![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
 
 ### Learning: 
@@ -68,15 +66,7 @@ I'm passionate about Web Development. ***Professional Front End Developer*** wit
 - SOLID
 - Agile Scrum
 - Docker
-
-### Specialties: 
-JavaScript ECMAScript6, HTML5, CSS3, SASS, Bootstrap and MySql.
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsrocha2020&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsrocha2020&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="amsrocha2020 Github Stats" />
-</p>
-
+- Quality Assurance
 
 #### 💬 Languages
 
