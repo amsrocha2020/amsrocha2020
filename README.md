@@ -54,19 +54,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
 
-### Learning: 
+Crypto enthusiast since 2017! Interested in blockchain & web3...
 
-- React (Hooks, React Routing, ContextApi, Redux)
-- Next.js
+### Always learning: 
+
+- Quality Assurance (Requirements analysis & test scenarios, Test cases specification, Test cases execution, Regression Tests, Manual Tests)
+- React (Hooks, React Routing, ContextApi, Redux) & Next.js
 - TDD (Jest, Enzyme and React Testing Library)
-- Webpack
-- TypeScript
-- REST APIs
-- GitFlow
-- SOLID
+- JavaSript & TypeScript
 - Agile Scrum
-- Docker
-- Quality Assurance
+
 
 #### 💬 Languages
 
@@ -74,4 +71,7 @@
 - Spanish - Intermediate;
 - Portuguese - Native.
 
+#### Links
 Check [my website](https://antoniorocha.pt)
+Check [my Blog](https://peakd.com/@portugalcoin)
+Check [my Linkedin](https://www.linkedin.com/in/antoniorocha/)
