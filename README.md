@@ -58,11 +58,14 @@ Crypto enthusiast since 2017! Interested in blockchain & web3...
 
 ### Always learning: 
 
+- Test Automation (Java, Selenium)
 - Quality Assurance (Requirements analysis & test scenarios, Test cases specification, Test cases execution, Regression Tests, Manual Tests)
 - React (Hooks, React Routing, ContextApi, Redux) & Next.js
 - TDD (Jest, Enzyme and React Testing Library)
 - JavaSript & TypeScript
 - Agile Scrum
+
+IDE: Visual Studio Code & IntelliJ
 
 
 #### 💬 Languages
