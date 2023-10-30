@@ -73,7 +73,5 @@ IDE: Visual Studio Code & IntelliJ
 - English - Intermediate
 - Portuguese - Native
 
-#### Links
-Check [my website](https://antoniorocha.pt)
 
-Check [my Linkedin](https://www.linkedin.com/in/antoniorocha/)
+📫 Reach me on [Linkedin](https://www.linkedin.com/in/antoniorocha/) and [my website](https://antoniorocha.pt)
