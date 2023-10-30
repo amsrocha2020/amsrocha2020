@@ -74,4 +74,4 @@ IDE: Visual Studio Code & IntelliJ
 - Portuguese - Native
 
 
-📫 Reach me on [Linkedin](https://www.linkedin.com/in/antoniorocha/) and [my website](https://antoniorocha.pt)
+📫 Reach me on [Linkedin](https://www.linkedin.com/in/antoniorocha/) and 🌎[website](https://antoniorocha.pt)
