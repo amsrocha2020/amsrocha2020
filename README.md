@@ -20,7 +20,7 @@
     <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/redux.png"/>
     <!--<img align="left" title="@material-ui" alt="@material-ui" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
-    src="./assets/mui.png"/>-->
+    src="./assets/mui.png"/>-
     <!--<img align="left" title="gatsby" alt="gatsby" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
     src="./assets/gatsby.png"/>-->
     <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" 
@@ -54,15 +54,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
 
-Crypto enthusiast since 2017! Interested in blockchain & web3...
-
 ### Always learning: 
 
-- Test Automation (Selenium, TestNG, JUnit, Cucumber, Jenkins)
+- Test Automation (Selenium, Selenium Grid, TestNG, JUnit, Cucumber, Jenkins)
 - Quality Assurance (Requirements analysis & test scenarios, Test cases specification, Test cases execution, Regression Tests, Manual Tests)
 - React (Hooks, React Routing, ContextApi, Redux) & Next.js
 - TDD (Jest, Enzyme and React Testing Library)
 - Java, JavaSript & TypeScript
+- TestRail & Xray
 - Agile Scrum
 
 IDE: Visual Studio Code & IntelliJ
@@ -70,11 +69,9 @@ IDE: Visual Studio Code & IntelliJ
 
 #### 💬 Languages
 
-- English - Intermediate;
-- Spanish - Intermediate;
-- Portuguese - Native.
+- English - Intermediate
+- Portuguese - Native
 
 #### Links
 Check [my website](https://antoniorocha.pt)
-Check [my Blog](https://peakd.com/@portugalcoin)
 Check [my Linkedin](https://www.linkedin.com/in/antoniorocha/)
