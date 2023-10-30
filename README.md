@@ -75,4 +75,5 @@ IDE: Visual Studio Code & IntelliJ
 
 #### Links
 Check [my website](https://antoniorocha.pt)
+
 Check [my Linkedin](https://www.linkedin.com/in/antoniorocha/)
