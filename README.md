@@ -54,7 +54,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/amsrocha2020)](https://github.com/amsrocha2020) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniorocha/)](https://www.linkedin.com/in/antoniorocha/)
 
-### Always learning: 
+
+### 🤖 I’m a Software Engineer in Test: 
 
 - Test Automation (Selenium, Selenium Grid, TestNG, JUnit, Cucumber, Jenkins)
 - Quality Assurance (Requirements analysis & test scenarios, Test cases specification, Test cases execution, Regression Tests, Manual Tests)
