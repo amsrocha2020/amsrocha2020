@@ -10,8 +10,6 @@
     <img align="left" title="javascript" alt="javascript" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/javascript.png"/>
     <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/typescript.png"/>
     <img align="left" title="react" alt="react" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/react.png"/>
-    <img align="left" title="redux" alt="redux" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/redux.png"/>
-    <img align="left" title="nextjs" alt="nextjs" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/nextjs.png"/>
     <img align="left" title="jest" alt="jest" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/jest.png"/>
     <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/mysql.png"/>
     <img align="left" title="git" alt="git" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/git.png"/>
@@ -23,6 +21,7 @@
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"width="26" alt="docker" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" width="26" alt="linux" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="26" alt="jira logo"  style="max-width: 100%; margin-bottom: 4px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" alt="postgresql logo" style="max-width: 100%; margin-bottom: 4px;"/>
     <br/>
 </div>
 
