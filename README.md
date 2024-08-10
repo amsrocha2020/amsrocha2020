@@ -14,11 +14,11 @@
 <img align="left" src="https://camo.githubusercontent.com/cfea5f5a292f568933300c41e659fd58d5a71c5153b46a92ea6fbdf8f4444a02/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" width="26" alt="Gitlab" style="max-width: 100%; margin-bottom: 4px;">
 <img align="left" src="https://camo.githubusercontent.com/e268d45defe04f6d9ca541ae4258663eaa51284e72b054c6aad5656fec2c37b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38372f65382f34392f38376538343931636464356565356461636633303539663063303833326365372e706e67" width="26" alt="Cucumber" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" title="html" alt="html" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/html.png"/>
-    <img align="left" title="css" alt="css" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/css.png"/>
-    <img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/sass.png"/> 
+    <!--<img align="left" title="css" alt="css" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/css.png"/>-->
+    <!--<img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/sass.png"/>-->
     <img align="left" title="react" alt="react" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/react.png"/>
     <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/mysql.png"/>
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="26" alt="apache" style="max-width: 100%; margin-bottom: 4px;">
+    <!--<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="26" alt="apache" style="max-width: 100%; margin-bottom: 4px;">-->
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"width="26" alt="docker" style="max-width: 100%; margin-bottom: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" alt="postgresql logo" style="max-width: 100%; margin-bottom: 4px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="26" alt="jira logo"  style="max-width: 100%; margin-bottom: 4px;">
