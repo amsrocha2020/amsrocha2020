@@ -1,19 +1,24 @@
 # 👨🏻‍💻 Miguel Rocha - Software Development Engineer in Test
 
 <div>
-    <img align="left" title="Playwright" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://image.pngaaa.com/84/5809084-middle.png"/>
+    <img align="left" title="Playwright" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"/>
     <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/typescript.png"/>
-    <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/visual-studio-code.png"/> 
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" width="26" alt="linux" style="max-width: 100%; margin-bottom: 4px;">   
+    <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/visual-studio-code.png"/>
+<img align="left" title="Aqua" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://miro.medium.com/v2/resize:fit:656/1*Sb713qje35vXZJ3kNqOgFg.png"/>
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" width="26" alt="linux" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/ubuntu.png"/>
-    <img align="left" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="26" alt="selenium logo" style="max-width: 100%; margin-bottom: 4px;" />
+    <img align="left" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="26" alt="selenium" style="max-width: 100%; margin-bottom: 4px;" />
+    <img align="left" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="26" alt="postman" style="max-width: 100%; margin-bottom: 4px;">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png?20200330143628" width="26" alt="K6" style="max-width: 100%; margin-bottom: 4px;">
+<img align="left" src="https://camo.githubusercontent.com/b943e77d13421b90975fa40548a612d67f10678db82a5e940c4fed2c2f941084/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" width="26" alt="GIT" style="max-width: 100%; margin-bottom: 4px;">
+<img align="left" src="https://camo.githubusercontent.com/cfea5f5a292f568933300c41e659fd58d5a71c5153b46a92ea6fbdf8f4444a02/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667" width="26" alt="Gitlab" style="max-width: 100%; margin-bottom: 4px;">
+<img align="left" src="https://camo.githubusercontent.com/e268d45defe04f6d9ca541ae4258663eaa51284e72b054c6aad5656fec2c37b0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38372f65382f34392f38376538343931636464356565356461636633303539663063303833326365372e706e67" width="26" alt="Cucumber" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" title="html" alt="html" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/html.png"/>
     <img align="left" title="css" alt="css" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/css.png"/>
     <img align="left" title="sass" alt="sass" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/sass.png"/> 
     <img align="left" title="react" alt="react" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/react.png"/>
     <img align="left" title="mysql" alt="mysql" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/mysql.png"/>
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="26" alt="apache" style="max-width: 100%; margin-bottom: 4px;">
-    <img align="left" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="26" alt="postman logo" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"width="26" alt="docker" style="max-width: 100%; margin-bottom: 4px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" alt="postgresql logo" style="max-width: 100%; margin-bottom: 4px;"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="26" alt="jira logo"  style="max-width: 100%; margin-bottom: 4px;">
