@@ -7,7 +7,7 @@
 <img align="left" title="Aqua" alt="Aqua" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://miro.medium.com/v2/resize:fit:656/1*Sb713qje35vXZJ3kNqOgFg.png"/>
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/1200px-Icons8_flat_linux.svg.png" width="26" alt="linux" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" title="" alt="Linux" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/ubuntu.png"/>
-    <img align="left" src="https://images.seeklogo.com/logo-png/39/1/selenium-logo-png_seeklogo-394619.png" width="26" alt="selenium" style="max-width: 100%; margin-bottom: 4px;" />
+    <img align="left" src="https://avatars.githubusercontent.com/u/983927?s=48&v=4" width="26" alt="selenium" style="max-width: 100%; margin-bottom: 4px;" />
     <img align="left" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="26" alt="postman" style="max-width: 100%; margin-bottom: 4px;">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/374px-K6-logo.svg.png?20200330143628" width="26" alt="K6" style="max-width: 100%; margin-bottom: 4px;">
 <img align="left" src="https://camo.githubusercontent.com/b943e77d13421b90975fa40548a612d67f10678db82a5e940c4fed2c2f941084/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" width="26" alt="GIT" style="max-width: 100%; margin-bottom: 4px;">
