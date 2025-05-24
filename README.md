@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Miguel Rocha - Software Development Engineer in Test
 
 <div>
-    <img align="left" title="Playwright" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png"/>
+    <img align="left" title="Playwright" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://images.seeklogo.com/logo-png/43/1/playwright-logo-png_seeklogo-435674.png"/>
     <img align="left" title="typescript" alt="typescript" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/typescript.png"/>
     <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="./assets/visual-studio-code.png"/>
 <img align="left" title="Aqua" alt="Playwright" width="26px" style="max-width: 100%; margin-bottom: 4px;" src="https://miro.medium.com/v2/resize:fit:656/1*Sb713qje35vXZJ3kNqOgFg.png"/>
